@@ -26,41 +26,45 @@ Acredito que a combinação da teoria com a prática é fundamental para o desen
 
 ## 🛠️ Em Aprendizado
 
-### 💻 Linguagens e Tecnologias
+### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Ferramentas do dia a dia
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
+### 🛠️ Ferramentas do dia a dia
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dudalencar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalencar&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudalencar&theme=tokyonight)
 
-
+<table>
+  <tr>
+    <td>
+      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudalencar&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dudalencar&theme=tokyonight&utcOffset=-3" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Filosofia
