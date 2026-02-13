@@ -2,10 +2,11 @@
 
 👩‍💻 **Analista de Sistema Júnior | Desenvolvedora Front-End**  
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas e entusiasta por tudo que envolve tecnologia, inovação e criatividade.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Hoje, busco consolidar minha carreira como desenvolvedora, aplicando o que aprendo na faculdade e explorando novas linguagens e frameworks.
+
+Acredito que a combinação da teoria com a prática é fundamental para o desenvolvimento de um profissional completo. Por isso, estou sempre em busca de novas oportunidades para expandir meus horizontes e contribuir para projeto inovadores!
 
 ---
 
@@ -13,10 +14,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/dudalencar">
-    <img src="https://icons8.com.br/icon/v551nqGeHhGn/github"/>
+    <img width="100" height="85" alt="GitHub" src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" />
   </a>
-  <a href="[https://instagram.com/oreidosites](https://www.linkedin.com/in/maria-eduarda-alencar-441473b5/)">
-    <img src="https://icons8.com.br/icon/kFJzAZryEscq/linkedin-circled" />
+
+  <a href="https://www.linkedin.com/in/maria-eduarda-alencar-441473b5/">
+    <img awidth="100" height="85" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" />
   </a>
 </p>
 
@@ -48,20 +50,13 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
